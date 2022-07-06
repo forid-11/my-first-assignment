@@ -1,0 +1,290 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-text h1 {
+    font-size: 70px;
+    font-weight: 900;
+    color: #ff0088;
+    line-height: 30px;
+}
+
+.bg-text p {
+    color: #07fe13;
+    line-height: 30px;
+    padding: 0px 500px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.bg-image {
+    background-image: url(images/images/donation5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+}
+
+.bg-text {
+    text-align: center;
+    padding-top: 10%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px 30px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+/*next step start heir*/
+
+.mid-container {
+    height: 850px;
+}
+
+.discription-area {
+    text-align: center;
+    padding-top: 90px;
+}
+
+.discription-area h1 {
+    color: #141414;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.discription-area p {
+    color: dimgray;
+    line-height: 30px;
+    padding-left: 450px;
+    padding-right: 450px;
+    padding-bottom: 30px;
+}
+
+.donate-amount {
+    margin: auto;
+    width: 80%;
+}
+
+.one-fift {
+    width: 13%;
+    float: left;
+    padding: 35px;
+}
+
+.box-model {
+    background-color: #f7f7f7;
+    margin: 5px;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.donate-submit {
+    margin: auto;
+    width: 60%;
+    margin-top: 250px;
+    text-align: center;
+}
+
+#color-orange {
+    background-color: #FFEEEE;
+    border-radius: 5px;
+    color: red;
+    border: 2px solid red;
+}
+
+.donate-submit h3 {
+    color: gray;
+    border-bottom: 2px solid gray;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+}
+
+#centaring {
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 15px 30px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-top: 30px
+}
+
+/*OUR DONATION PLAN START HIRE*/
+
+.donation-plan-area {
+    height: 200px;
+    width: 100%;
+}
+
+.plans h1 {
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.plans p {
+    text-align: center;
+    color: dimgray;
+    padding-left: 450px;
+    padding-right: 450px;
+}
+
+/*FOOD, SHELTER, EDUCATION are start heir*/
+
+.property-container {
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+}
+
+.one-third-part {
+    width: 22%;
+    float: left;
+    margin: 20px;
+    padding: 40px;
+}
+
+.color-green {
+    background-color: #edf5f6;
+}
+
+.color-salmon {
+    background-color: #FFEEEE;
+}
+
+.color-violed {
+    background-color: #fff4d6;
+}
+
+/*live depend on the need us start heir*/
+
+.forth-container {
+    margin: auto;
+    height: 600px;
+    width: 80%;
+}
+
+.half-width {
+    width: 35%;
+    float: left;
+    margin: 30px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.half-width h1 {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+.half-width p {
+    color: dimgray;
+    line-height: 20px;
+    padding-bottom: 10px;
+}
+
+.your-donation {
+    text-decoration: none;
+    background-color: #ff5959;
+    padding: 15px 30px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 10px;
+}
+
+/*updates container style starting dire*/
+
+.update-container {
+    margin: auto;
+    height: 250px;
+    width: 60%;
+    padding: 10px;
+    margin-top: 100px;
+}
+
+.update {
+    text-align: center;
+}
+
+.update h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.update p {
+    color: dimgray;
+    padding-left: 170px;
+    padding-right: 170px;
+    padding-bottom: 30px;
+}
+
+/*form container starting hire*/
+
+.input-form {
+    margin: auto;
+    height: 200px;
+    width: 80%;
+}
+
+.form {
+    background-color: #fff4d6;
+    margin: 20px;
+    padding: 70px 400px;
+}
+
+input {
+    background-color: #d9d9d9;
+    border: none;
+    width: 250px;
+    height: 45px;
+    border-radius: 6px 0px 0px 6px;
+}
+
+.subscribe {
+    position: absolute;
+    text-decoration: none;
+    background-color: #ff5959;
+    padding: 12px 15px;
+    color: wheat;
+    font-weight: bold;
+    border-radius: 0px 6px 6px 0px;
+}
+
+
+/*footer area start hire*/
+
+footer {
+    background-color: black;
+    padding: 50px 500px;
+    margin-top: 80px;
+}
+
+footer div {
+    text-align: center;
+}
+
+footer h2 {
+    color: #f47171;
+    font-size: 40px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer p {
+    color: lightblue;
+}
